@@ -4,7 +4,7 @@
 
   *this script is for cubic system
 
-  input: Energy and Volume 
+  input: energy and volume 
 
   output: bulk modulus
 
