@@ -1,0 +1,42 @@
+
+------------------------------------------------------------------
+Elastic Moduli
+------------------------------------------------------------------
+
+                              Voigt     Reuss    Average
+-------------------------------------------------------
+Bulk modulus   (GPa)         203.644   200.133   201.889 
+Shear modulus  (GPa)         122.927   118.576   120.751 
+Young's modulus  (GPa)        307.007   297.059   302.033 
+Poisson's ratio               0.249     0.253     0.251 
+Bulk/Shear (Pugh's) ratio     1.657     1.688     1.672  
+
+------------------------------------------------------------------
+Elastic Anisotropy
+------------------------------------------------------------------
+
+Zener's anisotropy (true for cubic crystals only); Az =  1.208; Ref.[6]
+Chung-Buessem's anisotropy (true for cubic crystals only); Acb =  0.018; Ref.[7]
+Universal anisotropy index; Au =  0.201; Ref.[8]
+Log-Euclidean's anisotropy; AL =  0.082; Ref.[9]
+
+------------------------------------------------------------------
+Elastic Wave Velocities and Debye Temperature
+------------------------------------------------------------------
+
+Longitudinal wave velocity (vl) :   6936.702 m/s; Ref.[10]
+Transverse wave velocity (vt) :   4001.390 m/s; Ref.[10]
+Average wave velocity (vm) :   4442.644 m/s; Ref.[10]
+Debye temperature  :    609.363 K; Ref.[10]
+
+WARNING: The  Debye model for the atomic displacement is based on a monoatomic crystal approximation.
+Here we consider an averaged mass, in case your crystal has several species.
+
+------------------------------------------------------------------
+Melting Temperature
+------------------------------------------------------------------
+
+Melting temperature calculated from the empirical relation: Tm = 607 + 9.3*Kvrh \pm 555 (in K); Ref.[11]Tm =    2484.567 K (plus-minus 555 K) 
+
+
+WARNING: This is a crude approximation and its validity needs to be checked! 
